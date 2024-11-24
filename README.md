@@ -5,9 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gkvora&label=Profile%20views&color=0e75b6&style=flat" alt="gkvora" /> </p>
 
-- 🔭 I’m currently working on **Data Analytics Project**
-
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 Currently i am working on **Machine Learning**
 
 - 📫 How to reach me **gkvora1@gmail.com**
 
